@@ -1,4 +1,3 @@
-// ===== ANTI INSPECT =====
 (function() {
 
     // 1. Blokir klik kanan
